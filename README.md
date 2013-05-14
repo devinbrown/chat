@@ -24,7 +24,7 @@ $ sudo npm install -g meteorite
 
 ### Running the Application
 
-Run inside the application directory.
+Stand back and run this B inside the application's directory.
 
 ```
 $ mrt
